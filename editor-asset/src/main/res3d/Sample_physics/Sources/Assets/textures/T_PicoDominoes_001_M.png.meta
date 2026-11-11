@@ -1,0 +1,63 @@
+AssetClass: TextureImportSettings
+AssetGuid: a810b017-8fd1-4a06-9ed9-c7383b9c7f5f
+Objects:
+  - GUID: eaed7b09-2894-43f9-9d8e-549659a20770
+    Setting Class: TextureImportSettings
+    Variants:
+      sRGB:
+        Type: Boolean
+        Value: false
+      importerVersion:
+        Type: Integer
+        Value: 1
+      maxSize:
+        Type: Integer
+        Value: 7
+      resizeFilter:
+        Type: Integer
+        Value: 1
+      textureFormat:
+        Type: Integer
+        Value: 0
+      mipmapFilter:
+        Type: Integer
+        Value: 0
+      textureType:
+        Type: Integer
+        Value: 1
+      compressionQuality:
+        Type: Real
+        Value: 0.000000
+      textureShape:
+        Type: Integer
+        Value: 0
+      generateMipmap:
+        Type: Boolean
+        Value: true
+      wrapMode:
+        Type: Integer
+        Value: 0
+      filterMode:
+        Type: Integer
+        Value: 1
+      anisoLevel:
+        Type: Real
+        Value: 1.000000
+      cubemapMode:
+        Type: Integer
+        Value: 0
+      row:
+        Type: Integer
+        Value: 256
+      col:
+        Type: Integer
+        Value: 256
+      cubemapUsage:
+        Type: Integer
+        Value: 0
+    Array Values: ~
+UserData:
+  {}
+Settings:
+  - eaed7b09-2894-43f9-9d8e-549659a20770
+version: 1
